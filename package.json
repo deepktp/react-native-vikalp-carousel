@@ -2,11 +2,11 @@
   "name": "@rn-vui/carousel",
   "version": "0.1.0",
   "description": "Carousels show a collection of items that can be scrolled on and off the screen.",
+  "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
     ".": {
-      "source": "./src/index.tsx",
       "types": "./lib/typescript/src/index.d.ts",
       "default": "./lib/module/index.js"
     },
